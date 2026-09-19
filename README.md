@@ -5,6 +5,7 @@ A single-file, browser-based **educational charting tool** that implements a doc
 > ⚠️ **Not financial advice.** This is an educational implementation of a rule-based methodology. Pattern matching on historical data does not guarantee future results. See the disclaimer in the app.
 
 ![chart.png]{chart.png}
+![Gap Up ORB Setup Scanner](chart.png)
 ---
 
 ## What it does
